@@ -1,3 +1,9 @@
 [submodule "DDPM"]
 	path = DDPM
 	url = https://github.com/ytdeepia/DDPM.git
+[submodule "DDPM-Pytorch"]
+	path = DDPM-Pytorch
+	url = https://github.com/explainingai-code/DDPM-Pytorch.git
+[submodule "Diffusion-Models"]
+	path = Diffusion-Models
+	url = https://github.com/vikramsandu/Diffusion-Models.git
